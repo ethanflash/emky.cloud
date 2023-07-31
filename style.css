@@ -1,0 +1,229 @@
+body{
+    overflow-x: hidden;
+}
+
+.v11_61 {
+    width: 556px;
+    height: 442px;
+    background: url(./images/v11_61.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 19px;
+    left: 638px;
+    overflow: hidden;
+}
+
+.logo img{
+    width: 100px;
+    height: 50px;
+    left: 84px;
+    padding-top: 4px;
+    position: absolute;
+}
+
+.webDesign{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/web_design.png);
+    border-radius: 8px; 
+}
+
+.webDevelopment{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/web_development.png);
+    border-radius: 8px; 
+}
+
+.biDevelopment{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/bi_development.png);
+    border-radius: 8px; 
+}
+
+.ui{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/ui_ux.png);
+    border-radius: 8px; 
+}
+
+.softwareDev{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/software_dev.png);
+    border-radius: 8px; 
+}
+
+.appDev{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/app_development.png);
+    border-radius: 8px; 
+}
+
+.systemIntegration{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/system_integration.png);
+    border-radius: 8px; 
+}
+
+.maintenance{
+    width: 270px;
+    height: 238px;
+    left: 0px; top: 0px;
+    position: absolute;
+    background: url(./images/maintenance.png);
+    border-radius: 8px; 
+}
+
+.footer{
+    width: 1280px;
+    height: 420px;
+    left: 0px;
+    top: 0px;
+    position: absolute; 
+    background: url(./images/footer_image.png);
+}
+
+.fast{
+    width: 68.82px;
+    height: 85.38px; 
+    left: 65px; 
+    top: 0px; 
+    position: absolute;
+    background: url(./images/fast_effective.svg);
+    background-repeat: no-repeat;
+}
+
+.flexible{
+    width: 68.82px;
+    height: 85.38px;
+    top: 0px; 
+    position: absolute; 
+    opacity: 0.40;
+    background: url(./images/flexible.svg);
+    background-repeat: no-repeat;
+}
+
+.custom{
+    width: 72.82px;
+    height: 85.38px;
+    top: 0px;
+    background: url(./images/custom.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.pixel{
+    width: 62.50px; 
+    height: 68.91px; 
+    left: 84px; 
+    top: 0px; 
+    background: url(./images/pixel.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.webDesignIcon{
+    width: 56px; 
+    height: 56px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/designIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.webDevIcon{
+    width: 60px; 
+    height: 60px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/devIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.biIcon{
+    width: 60px; 
+    height: 64px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/biIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.uiIcon{
+    width: 60px; 
+    height: 64px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/uiIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.softwareIcon{
+    width: 67px; 
+    height: 67px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/software_icon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.appIcon{
+    width: 67px; 
+    height: 67px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/appIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.systemIcon{
+    width: 67px; 
+    height: 67px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/systemIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.maintenanceIcon{
+    width: 67px; 
+    height: 67px; 
+    left: 196px; 
+    top: 159px; 
+    background: url(./images/maintenanceIcon.svg);
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.iconStyle{
+    padding-left: 6px;
+}
